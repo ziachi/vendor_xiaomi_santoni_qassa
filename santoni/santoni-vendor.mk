@@ -2223,7 +2223,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     QtiTelephonyService \
     PowerOffAlarm \
-    daxService \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
